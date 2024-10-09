@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Title": "Bleach",
+    "Author": "Tito Kubo"
+  },
+  {
+    "Id": 2,
+    "Title": "Naruto",
+    "Author": "Masasi Kisimoto"
+  },
+  {
+    "Id": 3,
+    "Title": "One Piece",
+    "Author": "Eiichiro Oda"
+  }
+]

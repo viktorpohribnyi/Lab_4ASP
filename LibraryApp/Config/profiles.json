@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 0,
+    "Name": "Viktor",
+    "Email": "viktor2005402@gmail.com"
+  },
+  {
+    "Id": 1,
+    "Name": "Naruto",
+    "Email": "narutouzumaki@gmail.com"
+  },
+  {
+    "Id": 2,
+    "Name": "Ichigo",
+    "Email": "ichigokurosaki@gmail.com"
+  },
+  {
+    "Id": 3,
+    "Name": "Eren",
+    "Email": "erenyeger@gmail.com"
+  },
+  {
+    "Id": 4,
+    "Name": "Luffy",
+    "Email": "mankeydluffy@gmail.com"
+  },
+  {
+    "Id": 5,
+    "Name": "Son",
+    "Email": "sonjinwoo@gmail.com"
+  }
+]
